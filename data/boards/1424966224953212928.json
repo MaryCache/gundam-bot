@@ -1,0 +1,22 @@
+{
+  "channelId": "1424966224953212928",
+  "ownerId": "554737123178184706",
+  "size": 10,
+  "mode": "battle",
+  "members": [
+    {
+      "id": "ed1cc4f3-3f48-4178-a6f6-631ea1e98a66",
+      "name": "アムロ",
+      "pos": 5,
+      "tmp": null
+    },
+    {
+      "id": "8212c289-7d6b-4767-8398-fb65a1c12b0b",
+      "name": "シャア",
+      "pos": 5,
+      "tmp": 5
+    }
+  ],
+  "createdAt": 1759818127722,
+  "lastMessageId": "1425005254230937670"
+}

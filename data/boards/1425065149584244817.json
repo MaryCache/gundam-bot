@@ -1,0 +1,34 @@
+{
+  "channelId": "1425065149584244817",
+  "ownerId": "554737123178184706",
+  "size": 10,
+  "mode": "battle",
+  "members": [
+    {
+      "id": "6f6735b9-d54a-4e4d-9b0d-ba48b1828dbc",
+      "name": "イオ・ナバロ",
+      "pos": 7,
+      "tmp": null
+    },
+    {
+      "id": "0199afaf-c4d3-413f-b2c9-58be12e2f1c7",
+      "name": "ユナ・ローデン",
+      "pos": 8,
+      "tmp": null
+    },
+    {
+      "id": "00f32568-a76f-4148-8e92-be9898f02d06",
+      "name": "フェル・アマツ",
+      "pos": 4,
+      "tmp": null
+    },
+    {
+      "id": "9f83fc4e-90ed-4821-8734-946dffd251c3",
+      "name": "カイリ",
+      "pos": 5,
+      "tmp": 4
+    }
+  ],
+  "createdAt": 1759836250504,
+  "lastMessageId": "1425081266654679110"
+}
